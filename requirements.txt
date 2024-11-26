@@ -1,0 +1,8 @@
+matplotlib==3.9.2
+numpy==2.0.2
+pandas==2.2.3
+torch==2.5.1
+tqdm==4.67.1
+notebook==6.4.12
+ipywidgets==7.7.2
+traitlets==5.9.0
