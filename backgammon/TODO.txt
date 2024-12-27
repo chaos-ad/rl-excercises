@@ -1,0 +1,8 @@
+Keep track of following metrics across time:
+
+self.avg_reward = np.mean(rewards)
+self.max_reward = np.max(rewards)
+self.std_reward = np.sqrt(np.var(rewards) / len(rewards))
+
+avg_reward = np.mean(total_rewards)
+sigma_reward = np.sqrt(np.var(total_rewards) / len(total_rewards))
